@@ -11,7 +11,7 @@ Python 3, numpy, (optional) networkx, matplotlib
 
 See
 
-  ./gen-bn --help
+    ./gen-bn --help
 
 for information on parameters to the generator.
 
