@@ -118,6 +118,6 @@ if __name__ == '__main__':
     with open(args.output_file, 'w') as f:
         f.write(json.dumps(bn, indent=2))
 
-    print("Written to '{}'.".format(args.output_file))5
+    print("Written to '{}'.".format(args.output_file))
     if args.draw_net:
         draw_net(bn)
